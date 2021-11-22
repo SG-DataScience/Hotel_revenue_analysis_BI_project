@@ -25,7 +25,7 @@ We have to create a SQL Database where all the data files of our hotels will be 
 ## Project Walkthrough:
 At first we have created a database named-"power_bi_project" and inside it we have created 3 blank tables (hotel_records,hotel_records_2019 and hotel_records_2020).Now we have imported data from the 3 csv files i.e. hotel_revenue_2018,hotel_revenue_2019 and hotel_revenue_2020 to our newly created blank tables- hotel_records,hotel_records_2019 and hotel_records_2020 respectively.The screenshots of the SQL Query is provided below:
 
-![App Screenshot](https://snipboard.io/IpJwqk.jpg)
+![Capture](https://user-images.githubusercontent.com/80168511/142901644-b01c394a-9c22-4562-ba6f-ff8e2d71eb07.PNG)
 
 ![App Screenshot](https://snipboard.io/UWyAgK.jpg)
 
