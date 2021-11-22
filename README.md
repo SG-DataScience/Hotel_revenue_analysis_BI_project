@@ -19,7 +19,7 @@ We have to create a SQL Database where all the data files of our hotels will be 
  
 ## Project Pipeline:
 
-![App Screenshot](https://snipboard.io/QN7M9u.jpg)
+![Slide1](https://user-images.githubusercontent.com/80168511/142891804-2bb51122-8e59-495c-864a-3124b287c4df.JPG)
 
 
 ## Project Walkthrough:
