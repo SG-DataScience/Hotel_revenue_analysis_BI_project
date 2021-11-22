@@ -5,7 +5,7 @@
 
 ## Project Description:
 The purpose of this project is to analyse the data of two types of Hotels (specially from the year 2018 to 2021) to answer some business questions mentioned in the requirements given by our stakeholders.
-We have been provided with 5 csv files which contains different records about the concerned hotels and using these we need to develop the entire project.
+We have been provided with 5 csv files which contain different records about the concerned hotels and using these we need to develop the entire project.
 
 
 
@@ -41,7 +41,7 @@ Now we have created another 2 blank tables named-market_segment and meal_cost an
 
 ![Capture6](https://user-images.githubusercontent.com/80168511/142902449-bd368f6e-8e21-4371-8d72-e07120609977.PNG)
 
-Now using SQL Query we can check that in each year which hotel has earned how much total revenue
+Now using SQL Query we can check that in each year which hotel has earned how much total revenue.
 
 ![Capture8](https://user-images.githubusercontent.com/80168511/142902775-e0e4f929-52ed-4973-a064-13afaabcc165.PNG)
 
