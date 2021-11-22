@@ -73,8 +73,3 @@ The final Dashboard looks like--
 
 ![App Screenshot](https://snipboard.io/Yq3lxH.jpg)
 
-## Project Description:
-The purpose of this project is to analyse the data of two types of Hotels (specially from the year 2018 to 2021) to answer some business questions mentioned in the requirements given by our stakeholders.
-We have been provided with 5 csv files which contains different records about the concerned hotels and using these we need to develop the entire project.
-
-
